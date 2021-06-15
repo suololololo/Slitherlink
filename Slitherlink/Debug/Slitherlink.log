@@ -1,0 +1,21 @@
+﻿  GameBoard.cpp
+C:\Users\jia jun\source\repos\Slitherlink\Slitherlink\GameBoard.cpp(110,84): warning C4244:  “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\jia jun\source\repos\Slitherlink\Slitherlink\GameBoard.cpp(110,28): warning C4244:  “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\jia jun\source\repos\Slitherlink\Slitherlink\GameBoard.cpp(109,72): warning C4244:  “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\jia jun\source\repos\Slitherlink\Slitherlink\GameBoard.cpp(109,32): warning C4244:  “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\jia jun\source\repos\Slitherlink\Slitherlink\GameBoard.cpp(112,68): warning C4244:  “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\jia jun\source\repos\Slitherlink\Slitherlink\GameBoard.cpp(112,28): warning C4244:  “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\jia jun\source\repos\Slitherlink\Slitherlink\GameBoard.cpp(111,89): warning C4244:  “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\jia jun\source\repos\Slitherlink\Slitherlink\GameBoard.cpp(111,32): warning C4244:  “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\jia jun\source\repos\Slitherlink\Slitherlink\GameBoard.cpp(116,85): warning C4244:  “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\jia jun\source\repos\Slitherlink\Slitherlink\GameBoard.cpp(116,28): warning C4244:  “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\jia jun\source\repos\Slitherlink\Slitherlink\GameBoard.cpp(115,72): warning C4244:  “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\jia jun\source\repos\Slitherlink\Slitherlink\GameBoard.cpp(115,32): warning C4244:  “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\jia jun\source\repos\Slitherlink\Slitherlink\GameBoard.cpp(118,68): warning C4244:  “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\jia jun\source\repos\Slitherlink\Slitherlink\GameBoard.cpp(118,28): warning C4244:  “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\jia jun\source\repos\Slitherlink\Slitherlink\GameBoard.cpp(117,89): warning C4244:  “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\jia jun\source\repos\Slitherlink\Slitherlink\GameBoard.cpp(117,32): warning C4244:  “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\jia jun\source\repos\Slitherlink\Slitherlink\GameBoard.cpp(705,20): warning C4018:  “<”: 有符号/无符号不匹配
+C:\Users\jia jun\source\repos\Slitherlink\Slitherlink\GameBoard.cpp(714,21): warning C4018:  “<”: 有符号/无符号不匹配
+C:\Users\jia jun\source\repos\Slitherlink\Slitherlink\GameBoard.cpp(726,20): warning C4018:  “<”: 有符号/无符号不匹配
+LINK : fatal error LNK1168: 无法打开 C:\Users\jia jun\source\repos\Slitherlink\Debug\Slitherlink.exe 进行写入
